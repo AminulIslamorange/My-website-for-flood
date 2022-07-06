@@ -137,3 +137,57 @@ hr {
 }
 
 /* Now start Sixs Section */
+
+
+
+
+/* here Section Seven start now */
+.seven-section {
+    text-align: center;
+}
+
+.email-section {
+    text-align: center;
+    margin: 100px 80px;
+    background-color: rgb(221, 210, 197);
+    display: flex;
+    padding-left: 200px;
+    justify-content: center;
+    justify-items: center;
+
+    margin-bottom: 70px;
+}
+
+#mail {
+    padding: 100px;
+
+}
+
+.subcribe-mail {
+    font-size: 35px;
+}
+
+
+/* here Footer Style start  */
+footer {
+    text-align: center;
+    background-color: black;
+
+}
+
+.humble {
+    font-style: italic;
+    color: brown;
+
+
+}
+
+.do-it {
+    color: antiquewhite;
+
+
+}
+
+.last-class {
+    padding: 20px;
+}
