@@ -38,7 +38,7 @@ h1 {
 
 /* second section style start here */
 .second-section {
-    margin-top: 350px;
+    margin-top: 100px;
     text-align: center;
 }
 
@@ -110,6 +110,8 @@ hr {
     background-color: rgba(177, 127, 61, 0.849);
     padding: 15px 15px;
 }
+
+
 
 /* Forth section Style start now */
 
@@ -188,6 +190,6 @@ footer {
 
 }
 
-.last-class {
+.last-class-for-foter {
     padding: 20px;
 }
